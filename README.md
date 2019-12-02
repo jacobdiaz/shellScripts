@@ -1,1 +1,1 @@
-# shellScripts
+My personal bash_profile 
